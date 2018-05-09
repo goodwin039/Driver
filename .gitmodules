@@ -1,0 +1,3 @@
+[submodule "Windows-driver-samples"]
+	path = Windows-driver-samples
+	url = git@github.com:Microsoft/Windows-driver-samples.git
